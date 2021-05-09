@@ -16,19 +16,19 @@ bibliography: references.bib
 biblio-style: dinat
 subtitle: Team name
 header-includes:
-- \usepackage{titling}
-- \usepackage{float}
-- \pretitle{\begin{center} 
-  \includegraphics[width=5in,height=6in]{Images/sam-albury-oA7MMRxTVzo-unsplash.jpg}\LARGE\\}
-- \posttitle{\end{center}}
-- \usepackage{fontawesome}
-- \usepackage[most]{tcolorbox}
-- \usepackage{xcolor}
-- \usepackage{sectsty}
-- \sectionfont{\color{blue}}
-- \usepackage{verbatim}
-- \usepackage{fancyhdr}
-- \pagestyle{fancy}
+  - \usepackage{titling}
+  - \usepackage{float}
+  - \pretitle{\begin{center} 
+    \includegraphics[width=5in,height=6in]{Images/sam-albury-oA7MMRxTVzo-unsplash.jpg}\LARGE\\}
+  - \posttitle{\end{center}}
+  - \usepackage{fontawesome}
+  - \usepackage[most]{tcolorbox}
+  - \usepackage{xcolor}
+  - \usepackage{sectsty}
+  - \sectionfont{\color{blue}}
+  - \usepackage{verbatim}
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
 ---
 
 \clearpage
